@@ -1,0 +1,4 @@
+Mouse actions : Move to element,drag and drop 
+Browser navigations : Forward, backward and refresh 
+Popup handle : Browser pop up handle by actions class 
+Elements : isDisplayed(), isEnabled(), isDisabled().
